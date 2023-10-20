@@ -65,9 +65,9 @@ upper = \relative c' {
   e16 gis16 e16 gis16 e16 gis16 e16 gis16 cis,16 gis'16 cis,16 gis'16 cis,16 gis'16 cis,16 gis'16
   dis16 gis16 dis16 gis16 dis8 gis16 dis16 e8 e16 dis16 e16 gis16 e16 gis16
   e8 \mf gis8 e8 gis8 e8 gis8 e8 gis8
-  dis8 gis8 gis8 gis16 dis16 e8 e16 dis16 e8 gis8
+  dis8 gis8 dis8 gis16 dis16 e8 e16 dis16 e8 gis8
   e8 gis8 e8 gis8 e8 gis8 e8 gis8
-  dis8 gis8 gis8 gis16 dis16 e8 e16 dis16 e8 gis8
+  dis8 gis8 dis8 gis16 dis16 e8 e16 dis16 e8 gis8
   e8 gis8 e8 gis8 e8 gis8 e8 gis8
   dis8 gis8 dis8 gis16 dis16 e8 e16 dis16 e8 fis8
   gis1
